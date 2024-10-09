@@ -17,7 +17,7 @@ This library provides types and common functionality that work across environmen
 
 1. Module documentation is [published on Pursuit](https://pursuit.purescript.org/packages/purescript-affjax).
 2. Written documentation is kept in the [docs directory](./docs).
-3. Usage examples can be found in [the test suite](./test).
+3. Usage examples can be found in [the now removed test suite](https://github.com/purescript-contrib/purescript-affjax/tree/a3a5e93a092929478d56a665e5c6ac140374d0d4/test).
 
 If you get stuck, there are several ways to get help:
 
